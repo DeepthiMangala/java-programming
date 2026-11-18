@@ -14,7 +14,6 @@ This repository contains my Java programming practices, assignments, and mini pr
 - Hotel Reservation System
 - ISBN
 - Library Management System
-- Student Attendance Management System
 - Student Management System
 - University System
 
